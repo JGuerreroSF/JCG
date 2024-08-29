@@ -51,6 +51,14 @@ Json los datos
  -o salida.md : para que guarde
 
 
-git add . indexa
-git commit -
+git add .    (indexa
+git commit -m "UPDATED README.md"   (colocar un verbo     comentario cambio
+git push -u origin main (toma los cambios y los manda a la rama principal(main))
 
+"options": {
+    "temperature": 0
+  },
+
+  temperaruta :0 afin a la info 1: creatividad inventarse cosas
+
+  convertir imagen a base 64 
